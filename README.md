@@ -3,3 +3,6 @@ Use these package:
 -numpy
 -cv2
 -math
+-skimage
+-matplotlib
+-argparse
